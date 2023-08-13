@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/krish-verma-28a44621a" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Flinkedin-logo&psig=AOvVaw0RCFqGYHATaqd4l_8k-0pt&ust=1692022576215000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjR9Ljp2YADFQAAAAAdAAAAABAD" width="37" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://instagram.com/krish_verma_7?igshid=NGExMmI2YTkyZg==" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
