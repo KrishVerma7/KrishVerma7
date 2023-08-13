@@ -4,22 +4,17 @@
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hey there👋, I'm Krish</h1>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/krish-verma-28a44621a" target="_blank">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Flinkedin-logo&psig=AOvVaw0RCFqGYHATaqd4l_8k-0pt&ust=1692022576215000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjR9Ljp2YADFQAAAAAdAAAAABAD" width="37" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://instagram.com/krish_verma_7?igshid=NGExMmI2YTkyZg==" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/dhurandhar0987?hr_r=1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="37" height="25" alt="hackerrank logo"  />
-  </a>
-  <a href="https://twitter.com/Krish_Verma7?t=2y0M_kRDxkX2A39SqMZ2Dg&s=08" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  />
+  <p>
+<a href="https://linkedin.com/in/krish-verma-7"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://twitter.com/Krish_Verma7"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://www.instagram.com/krish_verma_7"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://www.hackerrank.com/dhurandhar0987"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+</p>
   </a>
 </div>
 
@@ -29,7 +24,7 @@
 
 ###
 
-<p align="left">👨‍🎓 Currently pursuing B.Tech in CSE from I.T.S Engineering College, Greater Noida.<br>📱 Exploring Android development in Kotlin<br>🔹 Worked at SIMSIM company as a SIMSIM influencer(internship).<br>👨‍🎨 Pretty good at sketching<br>📸Interested in photography and editing.<br>🔹 Sharing my captured moments on Instagram photography page @moody.shutter</p>
+<p align="left">📱 Exploring Android development in Kotlin<br>🔹 Worked at SIMSIM company as a SIMSIM influencer(internship).<br>👨‍🎨 Pretty good at sketching<br>📸Interested in photography and editing.<br>🔹 Sharing my captured moments on Instagram photography page @moody.shutter<br>👨‍🎓 Currently pursuing B.Tech in CSE from I.T.S Engineering College, Greater Noida</p>
 
 ###
 
@@ -65,16 +60,15 @@
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KrishVerma7.KrishVerma7&left_color=lightseagreen"  />
-
-###
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KrishVerma7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1&custom_title=Github Status" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KrishVerma7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=KrishVerma7&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
+<a href="https://github.com/KrishVerma7">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KrishVerma7&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KrishVerma7&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KrishVerma7&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KrishVerma7&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KrishVerma7&theme=2077" height="180em" />
 </div>
 
 ###
