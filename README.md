@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="right" height="300"  src="https://camo.githubusercontent.com/fe47707654fd7231f0a55ab6ff0cbb7796aae78610cb94c444a5ea5823a28dc4/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3236303331322f73637265656e73686f74732f323535333733372f616e746e6f6465736b64622e676966"  />
+<img align="right" height="300"  src="https://global.discourse-cdn.com/auth0/optimized/3X/b/6/b6d70ebefb3e5242e87b11393bc1cdb7e74d2630_2_834x750.jpeg"  />
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">📱 Exploring Android development in Kotlin<br>🔹Microsoft Learn Student Ambassador<br>🔹GDSC Kotlin Lead<br> 🔹Worked at SIMSIM company as a SIMSIM influencer(internship).<br>👨‍🎨 Pretty good at sketching<br>📸Interested in photography and editing.<br>🔹 Sharing my captured moments on Instagram photography page @moody.shutter<br>👨‍🎓 Currently pursuing B.Tech in CSE from I.T.S Engineering College, Greater Noida</p>
+<p align="left">📱 Exploring Android development in Kotlin<br>🟦 Microsoft Learn Student Ambassador<br>🟩 GDSC Kotlin Lead<br> 🔹 Worked at SIMSIM company(now acquired by Youtube) as a SIMSIM influencer(internship).<br>👨‍🎨 Pretty good at sketching<br>📸Interested in photography and editing.<br>🔹 Sharing my captured moments on Instagram photography page @moody.shutter<br>👨‍🎓 Currently pursuing B.Tech in CSE from I.T.S Engineering College, Greater Noida</p>
 
 ###
 
