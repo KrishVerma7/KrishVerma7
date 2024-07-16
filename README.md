@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">📱 Exploring Android development in Kotlin<br>🟦 Microsoft Learn Student Ambassador<br>🟩 GDSC Kotlin Lead<br> 🔹 Worked at SIMSIM company(now acquired by Youtube) as a SIMSIM influencer(internship).<br>👨‍🎨 Pretty good at sketching<br>📸Interested in photography and editing.<br>🔹 Sharing my captured moments on Instagram photography page @moody.shutter<br>👨‍🎓 Currently pursuing B.Tech in CSE from I.T.S Engineering College, Greater Noida</p>
+<p align="left">📱 Exploring Android development in Kotlin<br>🟦 Beta Microsoft Learn Student Ambassador<br>🟩 GDSC Kotlin Lead<br>👨‍🎨 Pretty good at sketching<br>📸Interested in photography and editing.<br>🔹 Sharing my captured moments on Instagram photography page @moody.shutter<br>👨‍🎓 Currently pursuing B.Tech in CSE from I.T.S Engineering College, Greater Noida</p>
 
 ###
 
@@ -59,7 +59,6 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-
 
 <br clear="both">
 
